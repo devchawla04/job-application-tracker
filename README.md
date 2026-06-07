@@ -341,6 +341,4 @@ After completing this tutorial, consider:
 - Adding job application notes/attachments
 - Implementing analytics dashboard
 
-## 📄 License
 
-This project is created for educational purposes as part of a YouTube tutorial series.
